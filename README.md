@@ -1,4 +1,4 @@
-# A-Comparative-Study-of-Machine-learning-Algorithms-for-Heart-Disease-Prediction
+# A Comparative Study of Machine-learning Algorithms for Heart Disease Prediction
 
 In this project, I applied common Machine-learning algorithms in Python to predict whether a patient have heart disease. I found best parameters by grid search and model with best performance by comparing accuracy scores and test errors. The dataset I used is 2020 annual CDC survey data of 400k adults related to their health status. It has 319,795 entries and 18 variables.
 
